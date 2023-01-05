@@ -6,7 +6,7 @@ var resp400 = &ResponseConfig{
 	},
 	Status: &Status{
 		Code:   "400",
-		Reason: "Bad Request",
+		Reason: "this is Bad Request",
 	},
 	Header: []*Header{
 		{
